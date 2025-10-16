@@ -653,3 +653,7 @@ video {
 .scrollup:hover{
   transform: translateY(-.5rem);
 }
+
+.show-scroll{
+  bottom: 3rem;
+}
