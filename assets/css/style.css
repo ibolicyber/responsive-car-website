@@ -657,3 +657,7 @@ video {
 .show-scroll{
   bottom: 3rem;
 }
+
+.active-link::after{
+  width: 60%;
+}
