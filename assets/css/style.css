@@ -863,3 +863,9 @@ video {
     right: 3rem;
   }
 }
+
+@media screen and (min-width: 2048px){
+  body{
+    zoom: 1.4;
+  }
+}
